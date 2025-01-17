@@ -54,7 +54,7 @@ Levoric Learn is more than just an educational platform—it’s a commitment to
 
 We are also committed to addressing the evolving needs of the developer community. Through continuous updates and improvements, we ensure that Levoric Learn remains a reliable resource for developers, educators, and learners alike.
 
-Explore our [Latest Updates](#) to learn about the exciting new features and enhancements in version 2.1.1.
+Explore our [Latest Updates](https://levoriclearn.com/updates) to learn about the exciting new features and enhancements in version 2.1.1.
 
 ---
 
